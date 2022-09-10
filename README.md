@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Akashchitra
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Basketball and Learning new
+- 🌱 I’m currently learning It support fundamental and python
+- 💞️ I’m looking to collaborate on MNC
 
 <!---
 Akashchitra/Akashchitra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
